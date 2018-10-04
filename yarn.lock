@@ -5298,11 +5298,11 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vue-gutter-resize@^0.8.4:
-  version "0.8.4"
-  resolved "https://registry.yarnpkg.com/vue-gutter-resize/-/vue-gutter-resize-0.8.4.tgz#79034e87a879dd0e17f3400b53400dacc9f4bcb8"
+vue-gutter-resize@^0.10.0:
+  version "0.10.0"
+  resolved "https://registry.yarnpkg.com/vue-gutter-resize/-/vue-gutter-resize-0.10.0.tgz#d9d6fe27655bf0584995646835211e3122de5a52"
   dependencies:
-    vue "^2.5.16"
+    vue "^2.5.17"
 
 vue-hot-reload-api@^2.2.0:
   version "2.3.0"
@@ -5344,7 +5344,11 @@ vue-template-es2015-compiler@^1.6.0:
   version "1.6.0"
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.6.0.tgz#dc42697133302ce3017524356a6c61b7b69b4a18"
 
-vue@^2.5.16, vue@^2.5.2:
+vue@^2.5.17:
+  version "2.5.17"
+  resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.17.tgz#0f8789ad718be68ca1872629832ed533589c6ada"
+
+vue@^2.5.2:
   version "2.5.16"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.5.16.tgz#07edb75e8412aaeed871ebafa99f4672584a0085"
 

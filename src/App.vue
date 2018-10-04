@@ -60,6 +60,7 @@
 import { rowGutter, columnGutter } from 'vue-gutter-resize'
 // import { rowGutter, columnGutter } from 'vue-gutter-resize/dist/vue-gutter-resize.esm'
 // import { rowGutter, columnGutter } from 'vue-gutter-resize/dist/vue-gutter-resize.umd'
+import 'vue-gutter-resize/dist/vue-gutter-resize.css'
 
 export default {
   name: 'app',
