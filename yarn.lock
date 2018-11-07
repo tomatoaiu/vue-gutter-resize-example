@@ -5298,9 +5298,9 @@ vm-browserify@0.0.4:
   dependencies:
     indexof "0.0.1"
 
-vue-gutter-resize@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/vue-gutter-resize/-/vue-gutter-resize-0.10.0.tgz#d9d6fe27655bf0584995646835211e3122de5a52"
+vue-gutter-resize@^0.10.1:
+  version "0.10.1"
+  resolved "https://registry.yarnpkg.com/vue-gutter-resize/-/vue-gutter-resize-0.10.1.tgz#e28d1f549d950547d5a03b7d0550905c355a7822"
   dependencies:
     vue "^2.5.17"
 
