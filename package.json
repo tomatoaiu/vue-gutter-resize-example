@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "vue": "^2.5.2",
-    "vue-gutter-resize": "^0.10.1"
+    "vue-gutter-resize": "^0.10.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
